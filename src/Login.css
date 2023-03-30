@@ -1,0 +1,17 @@
+/* .login-panel-heading {
+    font-size: 18px;
+    text-transform: uppercase;
+    animation: horizontalSlide 1000ms ease-in infinite alternate-reverse;
+}
+.login-panel-heading-parent { 
+    overflow-x: hidden;
+}
+
+@keyframes horizontalSlide {
+    from {
+        transform: translateX(0%);
+    }
+    to {
+        transform: translateX(100%);
+    }
+} */
